@@ -4,9 +4,9 @@ sanic==23.6.0
 sanic_ext==23.6.0
 langchain-core==0.1.50
 langchain==0.1.9
-unstructured==0.12.4
-unstructured[pptx]==0.12.4
-unstructured[md]==0.12.4
+unstructured==0.18.31
+unstructured[pptx]==0.18.31
+unstructured[md]==0.18.31
 opencv-python-headless==4.9.0.80
 python-dotenv==1.0.1
 mysql-connector-python==8.2.0
@@ -32,7 +32,7 @@ pandas==2.1.1
 scikit-learn==1.3.2
 chardet==5.2.0
 sentence-transformers==2.2.2
-scipy==1.10.1
+scipy==1.17.0
 fastchat==0.1.0
 wikipedia==1.4.0
 Wikipedia-API==0.6.0
@@ -42,7 +42,7 @@ tqdm==4.66.1
 anthropic==0.25.7
 streamlit==1.34.0
 openai==1.13.4
-zhipuai==2.0.1.20240429
+zhipuai==2.1.5.20250825
 langchain_elasticsearch==0.2.2
 tiktoken==0.7.0
 modelscope==1.13.0
